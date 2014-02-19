@@ -1,4 +1,4 @@
-api-public-2.1
+Ameridoc API v2.1 Public
 ==============
 
-API Public Version 2.1
+Making a request
